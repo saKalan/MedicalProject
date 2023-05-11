@@ -9,9 +9,6 @@
   <ItemGroup>
     <Folder Include="Entity\" />
     <Folder Include="Enum\" />
-    <Folder Include="Dto\" />
-    <Folder Include="AppService\" />
-    <Folder Include="DataAccess\" />
   </ItemGroup>
 
   <ItemGroup>

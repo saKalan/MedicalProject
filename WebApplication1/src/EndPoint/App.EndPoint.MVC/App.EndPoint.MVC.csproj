@@ -20,6 +20,7 @@
   </ItemGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\..\2-Infrastructure\Repository\Repository\Repository.csproj" />
     <ProjectReference Include="..\..\2-Infrastructure\SqlDataBase\SqlDataBase\SqlDataBase.csproj" />
   </ItemGroup>
 
